@@ -1,0 +1,82 @@
+[
+  {
+    "color": "cfd3d7",
+    "description": "This issue or pull request already exists",
+    "name": "duplicate"
+  },
+  {
+    "color": "7057ff",
+    "description": "Good for newcomers",
+    "name": "good first issue"
+  },
+  {
+    "color": "008672",
+    "description": "Extra attention is needed",
+    "name": "help wanted"
+  },
+  {
+    "color": "ff0000",
+    "description": "Requires immediate attention",
+    "name": "P1 - EMERGENCY"
+  },
+  {
+    "color": "ffff00",
+    "description": "Scheduled for later",
+    "name": "P2 - DELAYED"
+  },
+  {
+    "color": "008000",
+    "description": "No need to rush",
+    "name": "P3 - MINOR"
+  },
+  {
+    "color": "b60205",
+    "description": "Blocked by another issue or external factors",
+    "name": "Status: blocked"
+  },
+  {
+    "color": "c2e0c6",
+    "description": "Actively being worked on",
+    "name": "Status: in progress"
+  },
+  {
+    "color": "000000",
+    "description": "This doesn't seem right",
+    "name": "Status: invalid"
+  },
+  {
+    "color": "d876e3",
+    "description": "Further information is requested",
+    "name": "Status: needs details"
+  },
+  {
+    "color": "d93f0b",
+    "description": "PR ready for review",
+    "name": "Status: review needed"
+  },
+  {
+    "color": "ffffff",
+    "description": "This will not be worked on",
+    "name": "Status: wontfix"
+  },
+  {
+    "color": "d4af37",
+    "description": "You need to make a payment",
+    "name": "Support: Fee required"
+  },
+  {
+    "color": "d73a4a",
+    "description": "Something isn't working",
+    "name": "Type: bug"
+  },
+  {
+    "color": "0075ca",
+    "description": "Improvements or additions to documentation",
+    "name": "Type: documentation"
+  },
+  {
+    "color": "a2eeef",
+    "description": "New feature or request",
+    "name": "Type: enhancement"
+  }
+]
